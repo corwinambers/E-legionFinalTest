@@ -1,0 +1,8 @@
+<EditText
+    android:id="@+id/quiz_edit_text_add_tag"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:inputType="number"
+    android:maxLength="2"
+    android:hint="@string/menu_dialog_page_selection_hint"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

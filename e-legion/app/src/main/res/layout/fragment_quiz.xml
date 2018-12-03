@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/app_dp_4"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/fragment_question_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingLeft="@dimen/list_view_text_only_padding_left"
+        android:paddingRight="@dimen/list_view_text_only_padding_right"
+        android:paddingTop="@dimen/list_view_text_only_padding_top"
+        android:textSize="@dimen/app_font_size_16"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/fragment_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="?android:attr/listDivider"
+        android:dividerHeight="@dimen/app_dp_1"
+        android:paddingTop="@dimen/list_view_padding_above_list" />
+</LinearLayout>

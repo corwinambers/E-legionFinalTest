@@ -1,0 +1,51 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_height">100dp</dimen>
+    <dimen name="list_view_text_only_tile_height">100dp</dimen>
+    <dimen name="list_view_text_only_padding_left">16dp</dimen>
+    <dimen name="list_view_text_only_padding_right">16dp</dimen>
+    <dimen name="list_view_text_only_padding_top">16dp</dimen>
+    <dimen name="list_view_text_only_padding_bottom">20dp</dimen>
+    <dimen name="list_view_padding_above_list">8dp</dimen>
+
+    <!-- App Constants -->
+    <dimen name="app_dp_1">1dp</dimen>
+    <dimen name="app_dp_2">2dp</dimen>
+    <dimen name="app_dp_4">4dp</dimen>
+    <dimen name="app_dp_6">6dp</dimen>
+    <dimen name="app_dp_8">8dp</dimen>
+    <dimen name="app_dp_10">10dp</dimen>
+    <dimen name="app_dp_12">12dp</dimen>
+    <dimen name="app_dp_16">16dp</dimen>
+    <dimen name="app_dp_18">18dp</dimen>
+    <dimen name="app_dp_20">20dp</dimen>
+    <dimen name="app_dp_25">25dp</dimen>
+    <dimen name="app_dp_30">30dp</dimen>
+    <dimen name="app_dp_40">40dp</dimen>
+    <dimen name="app_font_size_8">8sp</dimen>
+    <dimen name="app_font_size_10">10sp</dimen>
+    <dimen name="app_font_size_12">12sp</dimen>
+    <dimen name="app_font_size_14">14sp</dimen>
+    <dimen name="app_font_size_16">16sp</dimen>
+    <dimen name="app_font_size_18">18sp</dimen>
+    <dimen name="app_font_size_20">20sp</dimen>
+    <dimen name="app_font_size_22">22sp</dimen>
+    <dimen name="app_font_size_24">24sp</dimen>
+    <dimen name="app_font_size_26">26sp</dimen>
+    <dimen name="app_font_size_28">28sp</dimen>
+    <dimen name="app_font_size_30">30sp</dimen>
+
+    <!-- typical sizes of views -->
+    <dimen name="button_size_tall">60dp</dimen>
+    <dimen name="button_size_normal">40dp</dimen>
+    <dimen name="button_size_short">32dp</dimen>
+
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+
+</resources>

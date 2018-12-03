@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+    <string name="menu_share_link">https://play.google.com/store/apps/details?id=com.e.legion.test</string>
+    <string name="menu_page_count">&#160;/&#160;</string>
+    <string name="menu_dialog_page_selection_hint">Введите номер страницы</string>
+    <string name="menu_dialog_page_selection_positive_button">Перейти</string>
+    <string name="menu_dialog_page_selection_negative_button">Отмена</string>
+
+    <string name="button_next">Следующий</string>
+    <string name="button_previous">Предыдущий</string>
+    <string name="page_selection_error">Введите верный номер страницы</string>
+
+    <!-- Drawer-->
+    <string name="drawer_quiz_link">http://learndroid.e-legion.ru/</string>
+    <string name="drawer_references">Этот квиз сделан на основе финального теста и онлайн школы Android-разработчиков
+        by e-legion &amp; Google</string>
+    <string name="drawer_references_version">Версия :&#160;</string>
+    <string name="drawer_forum">Группа обсуждения ВК</string>
+    <string name="drawer_forum_link">http://vk.com/club99012722</string>
+    <string name="drawer_share">Поделиться</string>
+    <string name="drawer_feedback">Письмо разработчику</string>
+    <string name="drawer_feedback_e_mail">krrg@mail.ru</string>
+    <string name="drawer_feedback_e_mail_error">На Вашем устройстве не установленно почтовых клиентов!</string>
+    <string name="drawer_about">О программе</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">@color/color_blue_300</color>
+    <color name="colorPrimaryDark">@color/color_blue_500</color>
+    <color name="colorAccent">@color/color_pink_a_200</color>
+
+    <!--https://www.google.com/design/spec/components/dividers.html#dividers-specs
+   Dividers are 1dp thick, with an opacity of either 12% black in light themes or 12% white in dark themes.
+   http://www.dtp-aus.com/hexadeci.htm -->
+    <color name="color_divider_gray">#C3C3C3</color>
+
+    <!--https://www.google.com/design/spec/style/color.html#color-color-palette-->
+    <color name="color_amber_A700">#FFAB00</color>
+    <color name="color_black">#000000</color>
+    <color name="color_blue_300">#64B5F6</color>
+    <color name="color_blue_500">#2196F3</color>
+    <color name="color_green_600">#7CB342</color>
+    <color name="color_green_500">#4CAF50</color>
+    <color name="color_grey_800">#424242</color>
+    <color name="color_grey_700">#616161</color>
+    <color name="color_grey_600">#757575</color>
+    <color name="color_grey_300">#E0E0E0</color>
+    <color name="color_grey_200">#EEEEEE</color>
+    <color name="color_indigo_500">#3F51B5</color>
+    <color name="color_indigo_700">#303F9F</color>
+    <color name="color_indigo_800">#283593</color>
+    <color name="color_pink_a_200">#FF4081</color>
+    <color name="color_red_500">#F44336</color>
+    <color name="color_red_900">#B71C1C</color>
+    <color name="color_red_800">#C62828</color>
+    <color name="color_white">#FFFFFF</color>
+</resources>

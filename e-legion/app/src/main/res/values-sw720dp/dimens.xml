@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- For sw720dp devices (e.g. 10" tablets) +125% -->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="app_horizontal_margin">36dp</dimen>
+    <dimen name="app_vertical_margin">36dp</dimen>
+    <dimen name="nav_header_height">293dp</dimen>
+    <dimen name="list_view_text_only_tile_height">293dp</dimen>
+    <dimen name="list_view_text_only_padding_left">36dp</dimen>
+    <dimen name="list_view_text_only_padding_right">36dp</dimen>
+    <dimen name="list_view_text_only_padding_top">36dp</dimen>
+    <dimen name="list_view_text_only_padding_bottom">45dp</dimen>
+    <dimen name="list_view_padding_above_list">18dp</dimen>
+
+    <!-- App Constants -->
+    <dimen name="app_dp_1">2dp</dimen>
+    <dimen name="app_dp_2">5dp</dimen>
+    <dimen name="app_dp_4">9dp</dimen>
+    <dimen name="app_dp_6">14dp</dimen>
+    <dimen name="app_dp_8">18dp</dimen>
+    <dimen name="app_dp_10">23dp</dimen>
+    <dimen name="app_dp_12">27dp</dimen>
+    <dimen name="app_dp_16">34dp</dimen>
+    <dimen name="app_dp_18">41dp</dimen>
+    <dimen name="app_dp_20">45dp</dimen>
+    <dimen name="app_dp_25">56dp</dimen>
+    <dimen name="app_dp_30">68dp</dimen>
+    <dimen name="app_dp_40">90dp</dimen>
+    <dimen name="app_font_size_8">18sp</dimen>
+    <dimen name="app_font_size_10">23sp</dimen>
+    <dimen name="app_font_size_12">27sp</dimen>
+    <dimen name="app_font_size_14">32sp</dimen>
+    <dimen name="app_font_size_16">36sp</dimen>
+    <dimen name="app_font_size_18">41sp</dimen>
+    <dimen name="app_font_size_20">45sp</dimen>
+    <dimen name="app_font_size_22">50sp</dimen>
+    <dimen name="app_font_size_24">54sp</dimen>
+    <dimen name="app_font_size_26">59sp</dimen>
+    <dimen name="app_font_size_28">63sp</dimen>
+    <dimen name="app_font_size_30">68sp</dimen>
+
+    <!-- typical sizes of views -->
+    <dimen name="button_size_tall">135dp</dimen>
+    <dimen name="button_size_normal">90dp</dimen>
+    <dimen name="button_size_short">72dp</dimen>
+
+</resources>

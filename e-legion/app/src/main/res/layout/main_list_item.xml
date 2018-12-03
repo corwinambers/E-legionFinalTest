@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/list_item_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/app_dp_25"
+        android:paddingLeft="@dimen/list_view_text_only_padding_left"
+        android:paddingRight="@dimen/list_view_text_only_padding_right"
+        android:paddingTop="@dimen/app_dp_25"
+        android:textSize="@dimen/app_font_size_14" />
+</LinearLayout>
